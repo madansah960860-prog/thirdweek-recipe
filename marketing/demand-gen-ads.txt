@@ -1,0 +1,69 @@
+GOOGLE ADS - DEMAND GEN CAMPAIGN ASSETS
+Saltgrain - test kitchen and recipe site
+==============================================================
+
+NOTE: All copy in this file is a starting draft. Review every line against current
+Google Ads editorial policy and against the advertiser's own substantiated claims
+before running any of it. Character counts are shown in brackets and include spaces.
+
+Brand line: Saltgrain is a Portland, Oregon test kitchen. Nothing is published until
+it has been cooked at least three times, once by somebody who did not write it. Keep
+the claim wording below exactly as written, because it is the claim the site itself
+makes and can support.
+
+
+BUSINESS NAME (25 characters max, 1 asset)
+------------------------------------------
+Saltgrain [9]
+
+HEADLINES (40 characters max, 15 assets)
+----------------------------------------
+Dinner Ideas For Busy Weeknights [32]
+Recipes Cooked Three Times First [32]
+Cook From Scratch On A Tuesday [30]
+Free Recipes With A Metric Toggle [33]
+Weeknight Dinners In Forty Minutes [34]
+One Pan, One Sink, One Dinner [29]
+Meal Plans With Shopping Lists [30]
+Baking With Weights And Cups [28]
+Seasonal Cooking, Month By Month [32]
+A Test Kitchen That Shows Its Work [34]
+Budget Dinners From The Pantry [30]
+Recipes Written For New Cooks [29]
+Batch Cooking For The Week Ahead [32]
+Tick Ingredients As You Cook [28]
+Sunday Cooking, Midweek Dinners [31]
+
+LONG HEADLINES (90 characters max, 10 assets)
+---------------------------------------------
+Tested recipes with US cup measures, a metric toggle and a live servings scaler [79]
+Weeknight dinners on the table in forty minutes, with the chopping time counted [79]
+One shopping list, five dinners, grouped by the aisle you actually find them in [79]
+Baking recipes with gram weights beside every cup and both oven scales printed [78]
+A Portland test kitchen publishing the method, the numbers and the failure modes [80]
+Ingredient checklists you can tick off while you shop and again while you cook [78]
+Seasonal produce guide following the United States growing calendar [67]
+Slow cooker and one-pot recipes that stretch across three weeknight dinners [75]
+Free recipes with storage, reheating and make-ahead notes on every page [71]
+Vegetarian and vegan dinners with the substitutions written into the recipe [75]
+
+DESCRIPTIONS (90 characters max, 10 assets)
+-------------------------------------------
+Tested recipes with US and metric measures, a servings scaler and printable checklists. [87]
+Weeknight dinners, weekend baking and meal plans with shopping lists by aisle. [78]
+Every recipe cooked at least three times before it goes up. Free to read. [73]
+Cup measures with grams beside them, and oven temperatures in Fahrenheit and Celsius. [85]
+Ingredient checklists, storage notes and substitutions on every recipe page. [76]
+Five dinners, one shopping list, grouped by the section of the store. [69]
+Cooking from scratch with supermarket ingredients and no specialty shopping. [76]
+Seasonal produce guide for the US growing year, updated month by month. [71]
+One-pot dinners and slow cooker recipes that leave a single pan in the sink. [76]
+The steps that usually go wrong are named before you reach them in the method. [78]
+
+CALL TO ACTION (from Google's standard set, 5 suggestions)
+----------------------------------------------------------
+Learn more [10]
+See more [8]
+Get started [11]
+Sign up [7]
+Subscribe [9]

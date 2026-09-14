@@ -1,0 +1,64 @@
+GOOGLE ADS - RESPONSIVE DISPLAY CAMPAIGN ASSETS
+Saltgrain - test kitchen and recipe site
+==============================================================
+
+NOTE: All copy in this file is a starting draft. Review every line against current
+Google Ads editorial policy and against the advertiser's own substantiated claims
+before running any of it. Character counts are shown in brackets and include spaces.
+
+Brand line: Saltgrain is a Portland, Oregon test kitchen. Nothing is published until
+it has been cooked at least three times, once by somebody who did not write it. The
+advertising voice is the same as the site voice: measured, specific, no adjectives
+doing work that a number could do.
+
+
+BUSINESS NAME (25 characters max, 1 asset)
+------------------------------------------
+Saltgrain [9]
+
+SHORT HEADLINES (30 characters max, 15 assets)
+----------------------------------------------
+Recipes That Survive Testing [28]
+Cooked Three Times First [24]
+Weeknight Dinner, Measured [26]
+Free Test Kitchen Recipes [25]
+Dinner In Forty Minutes [23]
+One Pot, One Sink [17]
+Meal Plans By Aisle [19]
+Baking By Weight [16]
+Grams Beside Every Cup [22]
+A Kitchen That Shows Work [25]
+Pantry Dinners, Costed [22]
+Written For New Cooks [21]
+Batch Cook On Sunday [20]
+Both Oven Scales Given [22]
+Failure Modes Explained [23]
+
+LONG HEADLINE (90 characters max, 5 assets)
+-------------------------------------------
+Tested recipes with US cup measures, a metric toggle and a live servings scaler [79]
+Weeknight dinners on the table in forty minutes, with the chopping time counted [79]
+One shopping list, five dinners, grouped by the aisle you actually find them in [79]
+Baking recipes with gram weights beside every cup and both oven scales printed [78]
+A Portland test kitchen that publishes its method, its numbers and its misses [77]
+
+DESCRIPTIONS (90 characters max, 10 assets)
+-------------------------------------------
+Tested recipes with US and metric measures and a live servings scaler. [70]
+Weeknight dinners, weekend baking and meal plans with shopping lists. [69]
+Cooked at least three times before it goes up, once by a second cook. [69]
+Cup measures with grams beside them and oven temperatures in both scales. [73]
+Ingredient checklists, storage notes and substitutions on every recipe. [71]
+Five dinners and one shopping list, grouped by section of the store. [68]
+Cooking from scratch with ordinary supermarket ingredients. [59]
+A seasonal produce guide for the US growing year, month by month. [65]
+One-pot dinners that leave a single pan in the sink afterwards. [63]
+The steps that usually go wrong are named before you get to them. [65]
+
+CALL TO ACTION (5 suggestions)
+------------------------------
+Learn more [10]
+See more [8]
+Get started [11]
+Subscribe [9]
+Sign up [7]
